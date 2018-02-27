@@ -1,3 +1,6 @@
+
+var Letter = require('./letter.js');
+
 var hangman;
 
 function Hangman(){
